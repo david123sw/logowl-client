@@ -1,3 +1,3 @@
 window.logowlConnectivity = {
-    backendURL: 'https://api.logowl.io'
+    backendURL: 'http://localhost:3000'//'https://api.logowl.io'
 };
